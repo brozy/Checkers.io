@@ -1,6 +1,6 @@
-# Chessar.io game
+# Checkers.io game
 
-Chess game with a little twist
+Checkers game with a little twist
 
 
 ## Built With
